@@ -1,2 +1,2 @@
-# mcs_covid_shop
+# react-project3
 Created with CodeSandbox
